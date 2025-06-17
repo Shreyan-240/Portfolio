@@ -4,8 +4,8 @@ function Header(){
         <ul className='flex justify-between text-white max-w-screen-lg mx-auto w-full items-center'>
         <li className=" text-center "><a href="#name" className="hover:shadow-md">NAME</a></li>
         <li className=" text-center "><a href="#about">ABOUT</a></li>
-        <li className=" text-center "><a href="">WORK</a></li>
-        <li className=" text-center "><a href="">CONTACT</a></li>
+        <li className=" text-center "><a href="#projects">WORK</a></li>
+        <li className=" text-center "><a href="#contact">CONTACT</a></li>
         </ul>
       </div>
     )
